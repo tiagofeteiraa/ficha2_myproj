@@ -1,1 +1,9 @@
 ESTE É O EXEMPLO DE UM FICHEIRO FILE3
+
+<h2>Bebidas</h2>
+
+<ul>
+  <li>Coffe</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
